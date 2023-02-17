@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-size: 62.5%;
+}
+
+h2{
+    color: white;
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-color: white solid;
+    border-width: 10rem;
+
+}
+
+button{
+    border-radius: 5px;
+    color: #ffffff;
+    background-color: #D05054;
+    border: 0;
+    width: fit-content;
+    height: 35px;
+    padding: 0 10px ;
+    margin: 15px;
+}
+
+img{
+    border-radius: 15px;
+    width: 32rem;
+    height: 30rem;
+}
+
+
